@@ -1,5 +1,6 @@
 package com.epam.rd.autotasks.springemployeecatalog;
 
+import com.epam.rd.autotasks.springemployeecatalog.data.EmployeeRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
